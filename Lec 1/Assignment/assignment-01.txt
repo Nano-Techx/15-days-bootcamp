@@ -1,0 +1,14 @@
+Assignment Should be Submitted in Soft Form Before Session-02 Startup
+
+Theoratical:-
+1)What is Proxy?
+2)What is Difference between Proxy  Hardware and Proxy Software?
+
+Practical:-
+1)Open cisco Packet Tracer and Pickup these Elements
+A)Pickup 4 Routers
+B)Pickup 2 Switches
+C)Pickup 1 Server
+
+
+It should be submitted before 11pm ,Dec,13,2022(Tuesday)
