@@ -1,0 +1,8 @@
+Assignment-02
+
+Theoratical:-
+1)Research on VPN and Proxies?
+
+
+Practical:-
+1)You should install Eve-NG on Your Type-2 Hypervisor known as "Virtual Box " or "VMware Workstation Pro/Player"
