@@ -1,0 +1,11 @@
+Assignment-04
+
+Theoratical:-
+1)What is RouterOS?
+2)Difference between VRP and Junos?
+3)Difference between Catalyst and Nexus Switches?
+4)What is DTP in networking Protocols?
+
+Practical:-
+1)Install GNS3
+2)Create your first project in GNS3 and take access of Router through wire by Telnet from PC?
